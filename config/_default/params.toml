@@ -1,0 +1,68 @@
+footerText = "**Email us at info.shoeselector (at) gmail.com if you have any Queries**"
+logo = "/uploads/shoes-spy-logo.png"
+icon = "/uploads/shoes-spy-favicon-.png"
+tagline = "Top Guides For You"
+contacteMail = "info.shoesspy@gmail.com"
+headerText = "**Email us at info.shoeselector (at) gmail.com if you have any Queries**"
+
+[fonts]
+body = "Open Sans"
+heading = "Poppins"
+bodyFont = "Roboto"
+
+[home_section]
+section1 = "Style 2"
+section1Cat = "Category 2"
+section2 = "Style 2"
+section2Cat = "Category 1"
+section3 = "Style 1"
+section3Cat = "Category 1"
+section4 = "Style 1"
+section4Cat = "Category 1"
+
+[[homeSection]]
+sectionStyle = "Style 1"
+sectionCat = "Category 1"
+
+[[homeSection]]
+sectionStyle = "Style 2"
+sectionCat = "Category Z"
+
+[colors]
+mainColor = "#170627"
+textColor = "#ffffff"
+linkColor = "#03a0ff"
+ctaColor = "#f13a3a"
+
+[open_graph]
+meta_Description = ""
+image = ""
+FacebookPublisher = ""
+
+[verifications]
+googleSiteVerify = "4giz6dnmD2wFKIURnnmN8dJpcL9P-9xF9-lWu4T81B8"
+
+[social_accounts]
+sitefbAccount = ""
+sitetwitterAccount = ""
+siteinstagramAccount = ""
+sitepinterestAccount = ""
+siteYouTubeAccount = ""
+
+[[img_section]]
+imgcat = "Shoe Chart Guides"
+
+[[img_section]]
+imgcat = "Shoe Guides"
+
+[[img_section]]
+imgcat = "Shoe Sizing Guides"
+
+[post_setting]
+featured_img = false
+show_comments = true
+
+[home_setting]
+headerText = "**Email us at info.shoesspy@gmail.com if you have any Queries**"
+footerText = "**Email us at info.shoesspy@gmail.com if you have any Queries**"
+headerStyle = "Group Navigation"
