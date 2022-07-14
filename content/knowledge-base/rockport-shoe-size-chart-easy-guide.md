@@ -15,7 +15,7 @@ updateDate: 2022-07-14T13:27:20.268Z
 categories:
   - Shoe Chart Guides
 ---
-Finding the right size of shoes could be a daunting task, but with the Rockport shoe size chart it doesn't have to be. This chart makes finding your perfect shoe size a breeze by providing standard sizing information for Rockport shoes. Whether you're looking for men's or women's sizes, you'll find what you need on this handy chart. So before you go shopping for new Rockports, make sure to check out this guide first!
+Finding the right size of shoes could be a daunting task, but with the <a href="https://shoesspy.com/rockport-shoe-size-chart" target="_blank" rel="noopener">Rockport shoe size chart</a>. It doesn't have to be. This chart makes finding your perfect shoe size a breeze by providing standard sizing information for Rockport shoes. Whether you're looking for men's or women's sizes, you'll find what you need on this handy chart. So before you go shopping for new Rockports, make sure to check out this guide first!
 
 ## **How To Use The Rockport Shoe Size Chart?**
 
