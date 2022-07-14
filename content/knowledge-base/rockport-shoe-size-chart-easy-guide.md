@@ -1,7 +1,7 @@
 ---
 title: Rockport Shoe Size Chart - Easy Guide
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 trendname: Rockport Shoe Size Chart
 seo_title: Rockport Shoe Size Chart - Latest Guide 2022
