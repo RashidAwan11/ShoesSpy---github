@@ -21,7 +21,7 @@ Finding the right size of shoes could be a daunting task, but with the <a href="
 
 To find your perfect fit using the shoe size chart, simply follow these easy steps: 
 
-First, determine what size you should order by measuring your foot. To do this, place a ruler horizontally on the floor and stand with your heel against the wall and your longest toe pointing forward. Then, measure from the end of your heel to the tip of your longest toe to get your foot’s length in inches or centimeters. 
+First, determine what size you should order by <a href="https://en.wikipedia.org/wiki/Foot_(unit)#:~:text=Since%20the%20International%20Yard%20and,Imperial%2FUS%20units" target="_blank" rel="nofollow" rel="noopener">measuring your foot</a>. To do this, place a ruler horizontally on the floor and stand with your heel against the wall and your longest toe pointing forward. Then, measure from the end of your heel to the tip of your longest toe to get your foot’s length in inches or centimeters. 
 
 Once you have that measurement, refer to the Rockport shoe size chart to find the corresponding men’s or women’s size. For example, if you measured a foot length of 9 inches (23 cm), you would wear a men’s size 8 or a women’s size 10. 
 
