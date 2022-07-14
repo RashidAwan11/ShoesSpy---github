@@ -16,7 +16,7 @@ updateDate: 2022-07-14T12:44:04.291Z
 categories:
   - Shoe Chart Guides
 ---
-Kenneth Cole is one of the most popular shoe brands in the world. They offer a wide range of sizes for both men and women, making it easy to find a pair of shoes that fits comfortably.Their kenneth cole shoe size chart makes it easy to determine what size you need, whether you're ordering online or in a store. With so many options available, Kenneth Cole is sure to have the perfect pair of shoes for everyone.
+Kenneth Cole is one of the most popular shoe brands in the world. They offer a wide range of sizes for both men and women, making it easy to find a pair of shoes that fits comfortably.Their <a href="https://shoesspy.com/kenneth-cole-shoe-size-chart" target="_blank" rel="noopener">kenneth cole shoe size chart</a> makes it easy to determine what size you need, whether you're ordering online or in a store. With so many options available, Kenneth Cole is sure to have the perfect pair of shoes for everyone.
 
 ## **Methods Of Using Kenneth Cole Shoe Size Chart:**
 
