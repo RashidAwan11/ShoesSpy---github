@@ -11,8 +11,8 @@ meta_Description: Below you'll find a men's and women's Kenneth cole shoe size
 meta_Keywords: kenneth cole shoe size chart
 url: kenneth-cole-shoe-size-chart
 author: Mason Alan
-date: 2022-07-14T12:44:03.423Z
-updateDate: 2022-07-14T12:44:04.291Z
+date: 2022-07-14T12:49:45.272Z
+updateDate: 2022-07-14T12:49:44.338Z
 categories:
   - Shoe Chart Guides
 ---
