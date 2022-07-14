@@ -10,8 +10,8 @@ meta_Description: Below you'll find a men's and women's Rockport shoe size chart
 meta_Keywords: rockport shoe size chart
 url: rockport-shoe-size-chart
 author: Mason Alan
-date: 2022-07-14T13:32:36.609Z
-updateDate: 2022-07-14T13:32:36.295Z
+date: 2022-07-14T13:36:18.233Z
+updateDate: 2022-07-14T13:36:18.860Z
 categories:
   - Shoe Chart Guides
 ---
