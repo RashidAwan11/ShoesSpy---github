@@ -11,7 +11,7 @@ meta_Keywords: versace shoe size
 url: versace-shoe-size
 author: Mason Alan
 date: 2022-07-06T10:27:40.478Z
-updateDate: 2022-07-06T10:27:41.318Z
+updateDate: 2022-07-14T15:07:54.248Z
 featured_Image: /uploads/versace-shoe-size.webp
 categories:
   - Shoe Sizing Guides
