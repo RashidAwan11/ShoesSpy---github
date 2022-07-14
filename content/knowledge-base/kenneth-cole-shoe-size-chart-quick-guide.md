@@ -20,7 +20,7 @@ Kenneth Cole is one of the most popular shoe brands in the world. They offer a w
 
 ## **Methods Of Using Kenneth Cole Shoe Size Chart:**
 
-Kenneth Cole size chart can be used in two ways: (1) Find your shoe size by looking at the length of your foot and then matching it with the corresponding size on the chart, or (2) Measure the width of your foot and find the corresponding width on the chart.
+Kenneth Cole size chart can be used in two ways: (1) Find your shoe size by looking at the length of your foot and then matching it with the corresponding size on the chart, or (2) Measure the <a href="https://www.wikihow.com/Determine-Shoe-Width" target="_blank" rel="nofollow" rel="noopener">width of foot</a> and find the corresponding width on the chart.
 
 No matter which method you use, make sure to round up to the next whole size if you're in between sizes. For example, if you measure your foot and find that it's 9.5 inches long, then you would wear a Size 10 shoe. And if you measure your foot and find that it's 8.75 inches wide, then you would wear a Size 9 shoe.
 
