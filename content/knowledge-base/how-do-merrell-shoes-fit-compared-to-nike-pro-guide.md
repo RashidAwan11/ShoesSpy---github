@@ -28,7 +28,7 @@ Merrell shoes are better in terms of durability and comfort. They also come in h
 
 ## **How Do Merrell Shoes Compare To Nike Shoes In Terms Of Fit And Comfort?** 
 
-Merrell shoes are typically known for being more comfortable and fitting more snugly than Nike shoes. the answer to this question that how do merrell shoes fit compared to Nike is because Merrell tends to use thicker materials in their construction, which mold to your feet better over time. Nike shoes, on the other hand, use lighter materials that can be less forgiving but provide more flexibility and motion control.
+Merrell shoes are typically known for being more comfortable and fitting more snugly than Nike shoes. the answer to this question that how do merrell shoes fit compared to Nike is because Merrell tends to use <a href="https://www.sciencedirect.com/topics/engineering/material-thickness" target="_blank" rel="nofollow" rel="noopener">thicker materials</a> in their construction, which mold to your feet better over time. Nike shoes, on the other hand, use lighter materials that can be less forgiving but provide more flexibility and motion control.
 
 Ultimately, it comes down to personal preference which brand you prefer. Both Merrell and Nike offer a wide variety of styles so that you can find the perfect fit for your needs. It’s important to try on both brands before you make a decision to see which one feels better to you.
 
