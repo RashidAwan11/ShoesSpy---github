@@ -19,7 +19,7 @@ When you think of sneakers, the first brands that probably come to mind are Nike
 
 ## **Nike Vs Converse - The Differences:**
 
-Nike and Converse are two very different brands, both in terms of their history and their style. Nike is a much larger company than Converse it’s a multi-billion dollar corporation, while Converse is owned by Nike. Nike also has a much wider range of products, including clothing and equipment for a variety of sports. Converse, on the other hand, focuses mainly on sneakers.
+Nike and Converse are two very different brands, both in terms of their history and their style. Nike is a much larger company than Converse it’s a multi-billion dollar corporation, while Converse is owned by Nike. Nike also has a much wider range of products, including clothing and <a href="https://en.wikipedia.org/wiki/Equipment" target="_blank" rel="nofollow" rel="noopener">equipments</a> for a variety of sports. Converse, on the other hand, focuses mainly on sneakers.
 
 ## **Converse Shoe Size Compared To Nike Which One Is Better?**
 
