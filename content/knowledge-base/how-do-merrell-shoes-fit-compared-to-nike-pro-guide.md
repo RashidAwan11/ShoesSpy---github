@@ -18,7 +18,7 @@ categories:
 ---
 If you are looking for shoes that fit well and will last, you may want to consider Merrell shoes. Compared to Nike shoes, Merrells typically have a wider toe box and provide more support. They also come in half sizes, which is helpful if you have a hard time finding your size. However, Merrells can be more expensive than Nikes. So, it’s important to decide whether the extra comfort and durability are worth the price difference.
 
-So how do merrell shoes fit compared to Nike?
+So <a href="https://shoesspy.com/how-do-merrell-shoes-fit-compared-to-nike/" target="_blank" rel="noopener">how do merrell shoes fit compared to Nike</a>?
 
 ## **Merrell VS Nike Shoes:**
 
