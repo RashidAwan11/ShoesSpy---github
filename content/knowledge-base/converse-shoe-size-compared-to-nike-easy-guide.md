@@ -10,8 +10,8 @@ meta_Description: converse shoe size compared to nike for women And men's are a
 meta_Keywords: converse shoe size compared to nike
 url: converse-shoe-size-compared-to-nike
 author: Mason Alan
-date: 2022-07-15T10:17:35.112Z
-updateDate: 2022-07-15T10:17:35.924Z
+date: 2022-07-15T10:43:34.011Z
+updateDate: 2022-07-15T10:43:34.783Z
 categories:
   - Shoe Sizing Guides
 ---
