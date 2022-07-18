@@ -11,7 +11,7 @@ meta_Keywords: rockport shoe size chart
 url: rockport-shoe-size-chart
 author: Mason Alan
 date: 2022-07-14T13:36:18.233Z
-updateDate: 2022-07-14T13:36:18.860Z
+updateDate: 2022-07-18T07:53:36.838Z
 featured_Image: /uploads/rockport-shoe-size-chart.webp
 categories:
   - Shoe Chart Guides
