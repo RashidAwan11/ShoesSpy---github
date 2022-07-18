@@ -17,7 +17,7 @@ categories:
 ---
 Naturino shoes are one of the most popular brands for children's shoes. There is a size chart that parents can use to ensure they get the right size for their child's feet. The chart offers both European and U.S. sizing so that it can be used no matter where you are in the world. Knowing your child's shoe size is important so that they have a comfortable and proper fitting pair of shoes. 
 
-In addition to following the Naturino shoe size chart, it is also important to purchase the correct width of shoe for your child's foot. Not all children have wide feet, but if they do, it is crucial to get them a pair of shoes that fit properly in order to avoid blisters and other foot problems. 
+In addition to following the <a href="https://shoesspy.com/naturino-shoe-size-chart/" target="_blank" rel="noopener">Naturino shoe size chart</a>, it is also important to purchase the correct width of shoe for your child's foot. Not all children have wide feet, but if they do, it is crucial to get them a pair of shoes that fit properly in order to avoid blisters and other foot problems. 
 
 You can usually tell if your child has wide feet if they have trouble finding shoes that fit comfortably or if they constantly seem to be tripping over their own feet. If you are unsure of what width shoe to purchase, you can always ask a sales associate at a Naturino shoe store for help.
 
