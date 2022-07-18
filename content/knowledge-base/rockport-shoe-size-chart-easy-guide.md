@@ -12,6 +12,7 @@ url: rockport-shoe-size-chart
 author: Mason Alan
 date: 2022-07-14T13:36:18.233Z
 updateDate: 2022-07-14T13:36:18.860Z
+featured_Image: /uploads/rockport-shoe-size-chart.webp
 categories:
   - Shoe Chart Guides
 ---
