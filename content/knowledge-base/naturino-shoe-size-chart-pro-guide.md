@@ -23,7 +23,7 @@ You can usually tell if your child has wide feet if they have trouble finding sh
 
 ## **How To Use Naturino Shoe Size Chart?**
 
-There are a few ways to use the shoe size chart. One way is to measure your child's foot in inches and look for the corresponding size on the chart. Another way is to find your child's shoe size and look for the corresponding foot length on the chart.
+There are a few ways to use the shoe size chart. One way is to measure your child's foot in inches and look for the corresponding size on the chart. Another way is to find your child's shoe size and look for the corresponding <a href="https://encyclopedia2.thefreedictionary.com/foot+length" target="_blank" rel="nofollow" rel="noopener">foot length</a> on the chart.
 
 The naturino shoe size chart is a useful tool when buying shoes for children. It helps parents select the right size of shoe for their children's feet, taking into account the width of their feet as well as their foot length. The chart also includes a conversion table to convert children's European sizes into American sizes.
 
