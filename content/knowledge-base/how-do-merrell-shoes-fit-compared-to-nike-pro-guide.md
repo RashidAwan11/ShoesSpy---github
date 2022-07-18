@@ -1,7 +1,7 @@
 ---
 title: "How Do Merrell Shoes Fit Compared To Nike? Pro Guide "
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 trendname: Merrell Shoes Fit Compared To Nike
 seo_title: Solved - How Do Merrell Shoes Fit Compared To Nike? Guide 2022
