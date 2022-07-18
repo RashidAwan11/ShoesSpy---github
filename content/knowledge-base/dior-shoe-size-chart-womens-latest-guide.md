@@ -24,6 +24,8 @@ There are many benefits of using a shoe size chart. One of the most obvious bene
 
 Another benefit of using a chart is that it can help you to find styles that are the right fit for your feet. Many people find that they have difficulty finding shoes in their local store that fit properly, but by using a size chart online you can search for styles that are made specifically for your foot type. This can be a great way to find shoes that you love and that will stay comfortable all day long.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4-Q24a3DEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Conclusion:**
 
 Shoe size can be confusing, but with this Dior shoe size chart women's, you will know your perfect fit. With so many different brands and styles of shoes available, it’s important to find the right size for your feet. You don’t want to end up with blisters or sore feet after a long day of shopping. Use this shoe size chart to figure out what size you need before you head to the store. We hope that this information was helpful and that you have a happy shopping experience!
