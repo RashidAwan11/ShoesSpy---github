@@ -13,6 +13,7 @@ url: kenneth-cole-shoe-size-chart
 author: Mason Alan
 date: 2022-07-14T13:22:05.854Z
 updateDate: 2022-07-14T13:22:04.800Z
+featured_Image: /uploads/kenneth-cole-shoe-size-chart.webp
 categories:
   - Shoe Chart Guides
 ---
