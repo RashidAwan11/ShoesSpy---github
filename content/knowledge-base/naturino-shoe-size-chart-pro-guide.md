@@ -27,6 +27,8 @@ There are a few ways to use the shoe size chart. One way is to measure your chil
 
 The naturino shoe size chart is a useful tool when buying shoes for children. It helps parents select the right size of shoe for their children's feet, taking into account the width of their feet as well as their foot length. The chart also includes a conversion table to convert children's European sizes into American sizes.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_IdoW0qt98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Conclusion:**
 
 We hope that this article was helpful in providing you with information about the naturino shoe size chart. We also hope that you found our comparison of the European and American size charts useful. If you have any questions or would like more information, please feel free to leave a comment below or contact us directly. Have a great day!
