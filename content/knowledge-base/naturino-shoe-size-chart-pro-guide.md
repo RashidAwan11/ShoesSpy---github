@@ -1,7 +1,7 @@
 ---
 title: Naturino Shoe Size Chart - Pro Guide
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: Naturino Shoe Size Chart - Complete Guide 2022
 meta_Description: Naturino Shoe Size Chart - you can use our Shoe Size Chart to
