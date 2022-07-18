@@ -12,6 +12,7 @@ url: converse-shoe-size-compared-to-nike
 author: Mason Alan
 date: 2022-07-15T10:45:04.598Z
 updateDate: 2022-07-15T10:45:05.479Z
+featured_Image: /uploads/converse-shoe-size-compared-to-nike.webp
 categories:
   - Shoe Sizing Guides
 ---
