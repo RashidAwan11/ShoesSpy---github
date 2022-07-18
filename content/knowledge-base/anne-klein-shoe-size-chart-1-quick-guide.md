@@ -28,6 +28,8 @@ The Anne Klein size chart also provides both women's and men's shoe sizes. So wh
 
 Yes, the Anne Klein shoe size chart show accuracy. The brand offers versatile and comfortable styles that range in sizes from 4 to 12. Many of their shoes also come in half sizes so you can find the perfect fit. You can even use their printable size chart to help you determine your perfect size before making a purchase. So, yes, the shoe size chart does show accuracy.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_EBeylF0d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Conclusion:**
 
 We hope that you have found this guide helpful and informative. We want to remind our readers that shoe size can vary between brands, so always use the anne klein shoe size chart when shopping for shoes online. And as always, happy shopping!
