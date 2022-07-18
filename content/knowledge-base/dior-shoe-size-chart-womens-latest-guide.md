@@ -8,7 +8,7 @@ seo_title: Dior Shoe Size Chart Women's - Latest Complete Guide 2022
 meta_Description: Below you'll find a dior shoe size chart women's to convert
   between US, UK, and Europe sizes and Centimeters and Inches.
 meta_Keywords: dior shoe size chart women's
-url: dior-shoe-size-chart-women's
+url: dior-shoe-size-chart-womens
 author: Mason Alan
 date: 2022-07-18T12:31:05.620Z
 updateDate: 2022-07-18T13:20:16.382Z
