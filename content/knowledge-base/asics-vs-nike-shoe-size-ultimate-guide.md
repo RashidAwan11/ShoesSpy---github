@@ -26,7 +26,7 @@ So Asics vs Nike shoe size what to choose? let us dig into the advantages and di
 
 ### **Pros and cons of Asics shoes:**
 
-Asics shoes are known for their comfort and support. They're also usually lighter than Nike shoes, making them ideal for runners who want a lighter shoe. However, Asics shoes can be more expensive than Nike shoes, and they may not last as long.
+Asics shoes are known for their <a href="https://wikidiff.com/comfort/support" target="_blank" rel="nofollow" rel="noopener">comfort and support</a>. They're also usually lighter than Nike shoes, making them ideal for runners who want a lighter shoe. However, Asics shoes can be more expensive than Nike shoes, and they may not last as long.
 
 ### **Pros and cons of Nike shoes:**
 
