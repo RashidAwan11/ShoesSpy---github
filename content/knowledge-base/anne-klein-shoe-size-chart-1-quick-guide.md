@@ -1,8 +1,9 @@
 ---
 title: "Anne Klein Shoe Size Chart - #1 Quick Guide"
 type: knowledge-base
-draft: true
-trending: false
+draft: false
+trending: true
+trendname: Anne Klein Shoe Size Chart
 seo_title: "Anne Klein Shoe Size Chart - #1 Pro Guide 2022"
 meta_Description: Below you'll find a men's and women's anne klein shoe size
   chart to convert between US, UK, and Europe sizes and Centimeters and Inches.
