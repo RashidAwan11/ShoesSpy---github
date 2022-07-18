@@ -9,8 +9,8 @@ meta_Description: Naturino Shoe Size Chart - you can use our Shoe Size Chart to
 meta_Keywords: naturino shoe size chart
 url: naturino-shoe-size-chart
 author: Mason Alan
-date: 2022-07-18T07:15:56.212Z
-updateDate: 2022-07-18T07:15:57.189Z
+date: 2022-07-18T07:25:03.207Z
+updateDate: 2022-07-18T07:25:04.212Z
 featured_Image: /uploads/naturino-shoe-size-chart.webp
 categories:
   - Shoe Chart Guides
