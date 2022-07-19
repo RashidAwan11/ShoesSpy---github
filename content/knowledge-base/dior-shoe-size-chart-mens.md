@@ -1,7 +1,7 @@
 ---
 title: Dior Shoe Size Chart Men's
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 trendname: Dior Shoe Size Chart Men's
 seo_title: Dior Shoe Size Chart Men's
@@ -9,8 +9,8 @@ meta_Description: Dior Shoe Size Chart Men's
 meta_Keywords: Dior Shoe Size Chart Men's
 url: dior-shoe-size-chart-mens
 author: Mason Alan
-date: 2022-07-19T10:57:11.246Z
-updateDate: 2022-07-19T10:57:11.257Z
+date: 2022-07-19T10:59:20.108Z
+updateDate: 2022-07-19T10:59:20.797Z
 categories:
   - Shoe Sizing Guides
 ---
