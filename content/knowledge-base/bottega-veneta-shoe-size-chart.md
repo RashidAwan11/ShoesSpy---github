@@ -12,7 +12,7 @@ author: Mason Alan
 date: 2022-07-19T10:52:55.694Z
 updateDate: 2022-07-19T10:52:55.224Z
 categories:
-  - Shoe Sizing Guides
+  - Shoe Chart Guides
 ---
 Bottega Veneta is an Italian luxury goods company, specializing in leather goods. The company was founded in 1966 by Vittorio and Laura Moltedo. Bottega Veneta's signature weave appears on many of its products, including Intrecciato nappa leather. 
 
