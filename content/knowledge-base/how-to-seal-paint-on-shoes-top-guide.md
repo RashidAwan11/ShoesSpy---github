@@ -77,6 +77,8 @@ Once you have chosen your paint, you will need to decide on a sealing method. Th
 
 Painting your shoes can be a fun and creative way to express your personal style. With a little bit of preparation and the right materials, you can easily seal paint on shoes to create a long-lasting, durable finish. Follow the steps outlined above to get started on your own unique project today!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_jpDrkOIpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## In The End!
 
 We have listed the things & methods you need to consider while sealing the paint on your shoes. All you need is to follow the steps one by one & enjoy your new shoes! We hope you enjoyed reading our blog post on how to seal paint on shoes. If you have any questions or comments, please feel free to reach out to us. We would love to hear from you!
