@@ -9,6 +9,7 @@ meta_Description: If you are looking to know about how to whiten yellow soles on
   Read more
 meta_Keywords: how to whiten yellow soles on shoes
 url: how-to-whiten-yellow-soles-on-shoes
+author: Mason Alan
 date: 2022-07-19T09:39:56.351Z
 updateDate: 2022-07-19T09:39:56.545Z
 ---
