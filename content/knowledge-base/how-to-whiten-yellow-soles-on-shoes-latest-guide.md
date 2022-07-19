@@ -12,4 +12,6 @@ url: how-to-whiten-yellow-soles-on-shoes
 author: Mason Alan
 date: 2022-07-19T09:39:56.351Z
 updateDate: 2022-07-19T09:39:56.545Z
+categories:
+  - Shoe Guides
 ---
