@@ -75,6 +75,8 @@ After taking these factors into consideration, you can use the chart below to ge
 
 The cost of shipping a pair of shoes will vary depending on the size and weight of the package, as well as the shipping method you choose. Be sure to take all of these factors into consideration when shipping your shoes.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5G6BuzR4TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Final Words!
 
 So, to know the exact cost of shipping a pair of shoes, you need to consider the weight and size of the package, as well as the distance it has to travel. You also need to decide which shipping method you want to use. Be sure to take all of these factors into consideration when shipping your shoes.
