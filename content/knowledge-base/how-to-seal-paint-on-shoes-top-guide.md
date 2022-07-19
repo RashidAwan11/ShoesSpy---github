@@ -69,7 +69,7 @@ Once you have chosen your paint, you will need to decide on a sealing method. Th
 ## Things To Consider For Sealing Your Shoes With Paint!
 
 * Be sure to select a sealer that is best suited for your needs.
-* Make sure the surface you are painting is clean and free of dirt.
+* Make sure the surface you are painting is clean and <a href="https://www.usatoday.com/story/news/2019/07/03/my-shoes-dirty-studies-suggest-theyre-covered-fecal-bacteria/1637780001/" target="_blank" rel = "nofollow" rel="noopener">free of dirt</a>.
 * Apply the base coat, sealant, and top coat (if desired) in thin, even layers.
 * Allow each layer to dry completely before moving on to the next.
 * For extra protection, apply a clear coat of nail polish over the entire surface of the shoe.
