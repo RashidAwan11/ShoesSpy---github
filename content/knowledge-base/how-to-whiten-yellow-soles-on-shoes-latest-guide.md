@@ -129,7 +129,7 @@ There are a few things that you can do to prevent your soles from turning yellow
 
 9. invest in good-quality shoes. This will help to prevent your shoes from turning yellow due to poor-quality materials.
 
-10. Follow the care instructions for your shoes. This will help to prevent your shoes from turning yellow due to improper care.
+10. Follow the care instructions for your shoes. This will help to prevent your shoes from turning yellow due to  <a href="https://www.nytimes.com/2019/11/14/smarter-living/the-basics-of-caring-for-your-sneakers.html" target="_blank" rel = "nofollow" rel="noopener">improper care</a>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UIJpkperP3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
