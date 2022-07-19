@@ -15,7 +15,7 @@ updateDate: 2022-07-19T09:39:54.888Z
 categories:
   - Shoe Chart Guides
 ---
-Looking for the perfect pair of shoes but don't know your size? Look no further! Josef Seibel shoe size chart to make sure you get the correct size every time. Plus, their shoes are so comfortable, you'll never want to take them off. So what are you waiting for? Check out their sizing chart today!
+Looking for the perfect pair of shoes but don't know your size? Look no further! [Josef Seibel shoe size chart](https://shoesspy.com/josef-seibel-shoe-size-chart/) to make sure you get the correct size every time. Plus, their shoes are so comfortable, you'll never want to take them off. So what are you waiting for? Check out their sizing chart today!
 
 ## Tips of Using Josef Seibel Shoe Size Chart:
 
