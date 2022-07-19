@@ -69,7 +69,7 @@ After taking these factors into consideration, you can use the chart below to ge
 * Stuff shoes with tissue paper to help preserve their shape.
 * Place shoes in a shipping box that is slightly larger than the shoes themselves.
 * Wrap the box in brown paper or packing paper to help protect it during shipping.
-* Seal the box with packing tape.
+* Seal the box with <a href="https://medium.com/@mspackaginguk/different-types-of-packaging-tape-their-benefits-c14860f7f3ac" target="_blank" rel = "nofollow" rel="noopener">packing tape</a>.
 * Label the box with your shipping information.
 * Take the box to your local post office or shipping company.
 
