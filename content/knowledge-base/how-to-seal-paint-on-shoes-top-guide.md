@@ -1,7 +1,7 @@
 ---
 title: How To Seal Paint On Shoes? Top Guide
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: "How To Seal Paint On Shoes? Top Tips & #1 Solution 2022"
 meta_Description: "How to seal paint on shoes? Clean your shoes with a damp
