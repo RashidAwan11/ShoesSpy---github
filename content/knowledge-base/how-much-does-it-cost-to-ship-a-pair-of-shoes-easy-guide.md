@@ -12,4 +12,6 @@ url: how-much-does-it-cost-to-ship-a-pair-of-shoes
 author: Mason Alan
 date: 2022-07-19T09:39:57.150Z
 updateDate: 2022-07-19T09:39:57.255Z
+categories:
+  - Shoe Guides
 ---
