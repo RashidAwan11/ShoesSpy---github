@@ -9,6 +9,7 @@ meta_Description: "How to seal paint on shoes? Clean your shoes with a damp
   working up to heavy coats "
 meta_Keywords: how to seal paint on shoes
 url: how-to-seal-paint-on-shoes
+author: Mason Alan
 date: 2022-07-19T09:39:55.436Z
 updateDate: 2022-07-19T09:39:55.574Z
 ---
