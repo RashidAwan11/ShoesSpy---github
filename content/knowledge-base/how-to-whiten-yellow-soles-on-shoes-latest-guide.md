@@ -2,7 +2,8 @@
 title: How To Whiten Yellow Soles On Shoes? Latest Guide
 type: knowledge-base
 draft: false
-trending: false
+trending: true
+trendname: Whiten Yellow Soles On Shoes
 seo_title: How To Whiten Yellow Soles On Shoes? Latest Top Hacks 2022
 meta_Description: If you are looking to know about how to whiten yellow soles on
   shoes? You are at right place we discusshere step by step and complete guide.
@@ -11,7 +12,8 @@ meta_Keywords: how to whiten yellow soles on shoes
 url: how-to-whiten-yellow-soles-on-shoes
 author: Mason Alan
 date: 2022-07-19T09:39:56.351Z
-updateDate: 2022-07-19T09:39:56.545Z
+updateDate: 2022-07-19T14:19:54.736Z
+featured_Image: /uploads/how-to-whiten-yellow-soles-on-shoes.webp
 categories:
   - Shoe Guides
 ---
