@@ -1,7 +1,7 @@
 ---
 title: Roberto Cavalli Shoe Size Chart
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 trendname: Roberto Cavalli Shoe Size Chart
 seo_title: Roberto Cavalli Shoe Size Chart
