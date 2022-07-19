@@ -9,6 +9,7 @@ meta_Description: Josef seibel shoe size chart - Josef Seibel is a leading
   accessories.
 meta_Keywords: josef seibel shoe size chart
 url: josef-seibel-shoe-size-chart
+author: Mason Alan
 date: 2022-07-19T09:39:54.703Z
 updateDate: 2022-07-19T09:39:54.888Z
 ---
