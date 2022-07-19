@@ -1,7 +1,7 @@
 ---
 title: How Much Does It Cost To Ship A Pair Of Shoes? Easy Guide
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: "How Much Does It Cost To Ship A Pair Of Shoes? #1 Solution 2022"
 meta_Description: "If you are interested to ship pair of shoes and looking to
