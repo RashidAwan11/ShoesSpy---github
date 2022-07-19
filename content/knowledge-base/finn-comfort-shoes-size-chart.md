@@ -12,7 +12,7 @@ author: Mason Alan
 date: 2022-07-19T10:49:41.823Z
 updateDate: 2022-07-19T10:49:42.516Z
 categories:
-  - Shoe Sizing Guides
+  - Shoe Chart Guides
 ---
 There are a lot of online resources when it comes to finding the right fit for shoes. But what if you're looking for a specific brand, like Finn Comfort? Where do you start? Well, we've got you covered. Our comprehensive finn comfort shoes size chart will help you find the perfect fit for your feet, and our convenient shopping options make it easy to order your new shoes online. So whether you're looking for a traditional shoe size or a specific Finn Comfort shoe size, we've got you covered. Check out our sizing chart today!
 
