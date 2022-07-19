@@ -1,7 +1,7 @@
 ---
 title: Best Shoes For Kickball - Comprehensive Guides
 type: posts
-draft: true
+draft: false
 trending: false
 trendname: Shoes For Kickball
 seo_title: Revealing The Top 6 Best Shoes For Kickball Reviews 2022
@@ -11,8 +11,8 @@ meta_Description: Kickball is a blast and it requires one thing that is good
 meta_Keywords: Best Shoes For Kickball
 url: best-shoes-for-kickball
 author: Mason Alan
-date: 2022-07-04T08:40:28.482Z
-updateDate: 2022-07-04T08:40:26.995Z
+date: 2022-07-19T11:24:46.414Z
+updateDate: 2022-07-19T11:24:45.382Z
 featured_Image: /uploads/best-shoes-for-kickball.png
 categories:
   - Shoe Guides
