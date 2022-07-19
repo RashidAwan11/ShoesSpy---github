@@ -12,4 +12,6 @@ url: josef-seibel-shoe-size-chart
 author: Mason Alan
 date: 2022-07-19T09:39:54.703Z
 updateDate: 2022-07-19T09:39:54.888Z
+categories:
+  - Shoe Chart Guides
 ---
