@@ -12,4 +12,6 @@ url: how-to-seal-paint-on-shoes
 author: Mason Alan
 date: 2022-07-19T09:39:55.436Z
 updateDate: 2022-07-19T09:39:55.574Z
+categories:
+  - Shoe Guides
 ---
