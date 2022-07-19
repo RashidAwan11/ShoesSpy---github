@@ -17,7 +17,7 @@ categories:
 ---
 Yellow soles are often the result of dirt and grime build-up and can be difficult to clean. But it can be more frustrating to wear shoes with yellow soles because they can make your feet look dirty. 
 
-Due to this reason you need to clean your shoes more often to avoid yellowing of the soles. In this blog, we will provide you with some tips & tricks which can help you to clean and whiten your yellow soles.
+Due to this reason you need to clean your shoes more often to avoid yellowing of the soles. In this blog, we will provide you with some tips & tricks which can help you to [clean and whiten your yellow soles](https://shoesspy.com/how-to-whiten-yellow-soles-on-shoes/).
 
 ## Different Methods To Clean Your Yellow Soles:
 
