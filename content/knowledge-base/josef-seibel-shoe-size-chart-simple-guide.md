@@ -31,7 +31,7 @@ Looking for the perfect pair of shoes but don't know your size? Look no further!
 
 Here's a quick guide on  josef seibel shoe size chart to help you find your perfect size:
 
-If you're a man, use your US shoe size as a starting point. If you're between sizes, choose the larger size. For women, Josef Seibel shoes run large, so you may want to order a half size smaller than you normally wear. The width of the shoes is medium (M). All measurements on the chart are in inches.
+If you're a man, use your US shoe size as a starting point. If you're between sizes, choose the larger size. For women, Josef Seibel <a href="https://www.cnbc.com/2019/05/08/nike-is-launching-nike-fit-to-scan-your-feet-tell-you-your-shoe-size.html" target="_blank" rel = "nofollow" rel="noopener">shoes run large</a>, so you may want to order a half size smaller than you normally wear. The width of the shoes is medium (M). All measurements on the chart are in inches.
 
 ## Steps-By-Step Guide of Using Size Chart:
 
