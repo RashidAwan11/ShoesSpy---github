@@ -45,6 +45,8 @@ To find your Josef Seibel shoe size, just follow these simple steps:
 
 4. If you're between sizes, choose the larger size.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tM_neucP-2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Conclusion:
 
 It can be so helpful to have a size chart on hand when you’re shopping for shoes, and Josef Seibel provides one that is both comprehensive and accurate. With this guide of josef seibel shoe size chart, you should be able to find the perfect pair of shoes every time, without any guesswork. Thanks for reading, and we hope you enjoy your next shopping excursion!
