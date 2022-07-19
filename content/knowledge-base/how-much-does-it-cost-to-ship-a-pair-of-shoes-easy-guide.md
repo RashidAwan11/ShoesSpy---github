@@ -9,6 +9,7 @@ meta_Description: "If you are interested to ship pair of shoes and looking to
   place . Read more "
 meta_Keywords: how much does it cost to ship a pair of shoes
 url: how-much-does-it-cost-to-ship-a-pair-of-shoes
+author: Mason Alan
 date: 2022-07-19T09:39:57.150Z
 updateDate: 2022-07-19T09:39:57.255Z
 ---
