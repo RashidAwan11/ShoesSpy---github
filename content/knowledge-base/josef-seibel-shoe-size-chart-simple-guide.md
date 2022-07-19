@@ -12,7 +12,7 @@ meta_Keywords: josef seibel shoe size chart
 url: josef-seibel-shoe-size-chart
 author: Mason Alan
 date: 2022-07-19T09:39:54.703Z
-updateDate: 2022-07-19T09:39:54.888Z
+updateDate: 2022-07-19T14:18:20.336Z
 featured_Image: /uploads/josef-seibel-shoe-size-chart.webp
 categories:
   - Shoe Chart Guides
