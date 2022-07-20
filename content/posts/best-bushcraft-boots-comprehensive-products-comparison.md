@@ -12,7 +12,7 @@ url: best-bushcraft-boots
 author: Mason Alan
 date: 2022-07-20T05:15:26.708Z
 updateDate: 2022-07-20T05:15:25.658Z
-featured_Image: /uploads/best-bushcraft-boots.png
+featured_Image: /uploads/best-bushcraft-boots.webp
 categories:
   - Shoe Guides
 product_table: true
