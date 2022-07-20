@@ -1,7 +1,7 @@
 ---
 title: Best Bushcraft Boots - Comprehensive Products Comparison
 type: posts
-draft: true
+draft: false
 trending: false
 trendname: Bushcraft Boots
 seo_title: Trending Top 6 Best Bushcraft Boots Reviews And Buying Guides
@@ -10,8 +10,8 @@ meta_Description: Until you find the best Bushcraft boot, this comprehensive
 meta_Keywords: Best Bushcraft Boots
 url: best-bushcraft-boots
 author: Mason Alan
-date: 2022-07-04T09:15:31.865Z
-updateDate: 2022-07-04T09:15:30.977Z
+date: 2022-07-20T05:15:26.708Z
+updateDate: 2022-07-20T05:15:25.658Z
 featured_Image: /uploads/best-bushcraft-boots.png
 categories:
   - Shoe Guides
