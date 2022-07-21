@@ -10,8 +10,8 @@ meta_Description: Levis Shoe Size Chart is a comprehensive guide on the
 meta_Keywords: levis shoe size chart
 url: levis-shoe-size-chart
 author: Mason Alan
-date: 2022-07-21T09:38:06.102Z
-updateDate: 2022-07-21T09:48:23.569Z
+date: 2022-07-21T09:52:10.204Z
+updateDate: 2022-07-21T09:52:11.193Z
 categories:
   - Shoe Chart Guides
 ---
