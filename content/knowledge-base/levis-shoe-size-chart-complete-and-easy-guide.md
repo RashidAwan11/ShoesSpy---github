@@ -15,7 +15,7 @@ updateDate: 2022-07-21T09:35:52.632Z
 categories:
   - Shoe Chart Guides
 ---
-Looking for a levis shoe size chart? You've come to the right place! Because we know how important it is to find the perfect fit, we've compiled all the information you need to find your perfect pair of Levi's shoes.
+Looking for a <a href="https://shoesspy.com/levis-shoe-size-chart/" target="_blank" rel="noopener">levis shoe size chart</a>? You've come to the right place! Because we know how important it is to find the perfect fit, we've compiled all the information you need to find your perfect pair of Levi's shoes.
 
 We all know that every brand has its own sizing chart, so it can be tricky when you're buying clothes or shoes online. Levi's is one of those brands that have a unique shoe size chart so, if you're looking to buy a pair of Levi's online, it's important to know what the conversion is. In this blog post, we'll take a look at Levis shoe size chart and provide an easy-to-use conversion table to help you find your perfect pair of jeans.
 
