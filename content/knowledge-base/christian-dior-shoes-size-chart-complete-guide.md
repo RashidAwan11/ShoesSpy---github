@@ -11,8 +11,8 @@ meta_Description: Dior Shoes have the widest range of sizes worldwide. Find the
 meta_Keywords: christian dior shoes size chart
 url: christian-dior-shoes-size-chart
 author: Mason Alan
-date: 2022-07-21T09:05:47.633Z
-updateDate: 2022-07-21T09:05:46.953Z
+date: 2022-07-21T09:07:43.946Z
+updateDate: 2022-07-21T09:07:44.825Z
 categories:
   - Shoe Chart Guides
 ---
