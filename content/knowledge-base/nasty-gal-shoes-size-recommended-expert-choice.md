@@ -11,8 +11,8 @@ meta_Description: If you are wondering about what size of Nasty Gal shoes is
 meta_Keywords: nasty gal shoes size
 url: nasty-gal-shoes-size
 author: Mason Alan
-date: 2022-07-21T08:45:03.290Z
-updateDate: 2022-07-21T08:45:04.304Z
+date: 2022-07-21T08:55:37.850Z
+updateDate: 2022-07-21T08:55:36.771Z
 categories:
   - Shoe Sizing Guides
 ---
