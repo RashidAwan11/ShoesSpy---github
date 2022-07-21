@@ -12,7 +12,7 @@ meta_Keywords: christian dior shoes size chart
 url: christian-dior-shoes-size-chart
 author: Mason Alan
 date: 2022-07-21T09:07:43.946Z
-updateDate: 2022-07-21T09:07:44.825Z
+updateDate: 2022-07-21T09:15:01.086Z
 categories:
   - Shoe Chart Guides
 ---
