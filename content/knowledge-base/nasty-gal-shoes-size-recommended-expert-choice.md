@@ -16,7 +16,7 @@ updateDate: 2022-07-21T08:45:04.304Z
 categories:
   - Shoe Sizing Guides
 ---
-If there's one thing that gal loves, it's shoes. And if there's one thing that gal hates, it's when her shoe size changes and she can't find any shoes that fit. But never fear, because nasty gal has your back! This post is all about the best nasty gal shoes size. From trendy sandals to stylish boots, we've got you covered no matter what size you are. So whether you're a 5 or a 12, these shoes will have you looking fabulous! Check them out today.
+If there's one thing that gal loves, it's shoes. And if there's one thing that gal hates, it's when her shoe size changes and she can't find any shoes that fit. But never fear, because nasty gal has your back! This post is all about the best <a href="https://shoesspy.com/nasty-gal-shoes-size/" target="_blank" rel="noopener">nasty gal shoes size</a>. From trendy sandals to stylish boots, we've got you covered no matter what size you are. So whether you're a 5 or a 12, these shoes will have you looking fabulous! Check them out today.
 
 ## **What Is Nasty Gal Shoes Size?**
 
