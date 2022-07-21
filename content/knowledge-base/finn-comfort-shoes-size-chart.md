@@ -1,16 +1,18 @@
 ---
-title: Finn Comfort Shoes Size Chart
+title: Finn Comfort Shoes Size Chart - Guide
 type: knowledge-base
 draft: false
-trending: false
+trending: true
 trendname: Finn Comfort Shoes Size Chart
-seo_title: Finn Comfort Shoes Size Chart
-meta_Description: Finn Comfort Shoes Size Chart
+seo_title: Finn Comfort Shoes Size Chart - Complete Guide
+meta_Description: If you are looking for the Finn comfort shoes size chart? You
+  are at ultimate peace, we discuss the chart in detail. keep reading
 meta_Keywords: Finn Comfort Shoes Size Chart
 url: finn-comfort-shoes-size-chart
 author: Mason Alan
 date: 2022-07-19T10:49:41.823Z
 updateDate: 2022-07-19T10:49:42.516Z
+featured_Image: /uploads/finn-comfort-shoes-size-chart.webp
 categories:
   - Shoe Chart Guides
 ---
