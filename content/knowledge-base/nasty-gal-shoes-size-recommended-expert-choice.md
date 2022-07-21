@@ -12,7 +12,8 @@ meta_Keywords: nasty gal shoes size
 url: nasty-gal-shoes-size
 author: Mason Alan
 date: 2022-07-21T08:55:37.850Z
-updateDate: 2022-07-21T09:03:10.602Z
+updateDate: 2022-07-21T11:57:35.508Z
+featured_Image: /uploads/nasty-gal-shoes-size.webp
 categories:
   - Shoe Sizing Guides
 ---
