@@ -28,6 +28,8 @@ The Christian Dior shoes size chart lists both European and US sizes. It also in
 
 If you're not sure which size to order, it's best to choose the larger size. Christian Dior shoes tend to run small, especially in the heel area.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ch5KD_G7eFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Conclusion:**
 
 So, what do Christian Dior shoes size chart and neuroscience have in common? Quite a bit actually. By understanding how people's brain works, we can apply principles to our marketing that will help us drive sales. We've looked at some of the ways that cognitive neuroscience can be used in digital marketing, from understanding customer needs to using persuasive language. Are you ready to try these tips out for yourself? If so, let us know how they work for you!
