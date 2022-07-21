@@ -1,8 +1,8 @@
 ---
 title: Levis Shoe Size Chart - Complete And Easy Guide
 type: knowledge-base
-draft: true
-trending: false
+draft: false
+trending: true
 trendname: Levis Shoe Size Chart
 seo_title: Levis Shoe Size Chart - Top Recommended Expert's Guide
 meta_Description: Levis Shoe Size Chart is a comprehensive guide on the
