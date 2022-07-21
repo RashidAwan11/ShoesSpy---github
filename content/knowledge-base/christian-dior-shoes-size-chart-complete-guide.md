@@ -13,6 +13,7 @@ url: christian-dior-shoes-size-chart
 author: Mason Alan
 date: 2022-07-21T09:07:43.946Z
 updateDate: 2022-07-21T09:15:01.086Z
+featured_Image: /uploads/christian-dior-shoes-size-chart.webp
 categories:
   - Shoe Chart Guides
 ---
