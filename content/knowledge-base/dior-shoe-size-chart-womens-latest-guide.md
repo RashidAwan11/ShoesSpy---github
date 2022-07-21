@@ -11,8 +11,8 @@ meta_Keywords: dior shoe size chart women's
 url: dior-shoe-size-chart-womens
 author: Mason Alan
 date: 2022-07-18T12:31:05.620Z
-updateDate: 2022-07-18T13:20:16.382Z
-featured_Image: /uploads/dior-shoe-size-chart-women-s.webp
+updateDate: 2022-07-21T11:59:33.737Z
+featured_Image: /uploads/christian-dior-shoes-size-chart.webp
 categories:
   - Shoe Chart Guides
 ---
