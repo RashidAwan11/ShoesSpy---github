@@ -10,7 +10,8 @@ meta_Keywords: Bottega Veneta Shoe Size Chart
 url: bottega-veneta-shoe-size-chart
 author: Mason Alan
 date: 2022-07-19T10:52:55.694Z
-updateDate: 2022-07-19T10:52:55.224Z
+updateDate: 2022-07-21T12:27:56.524Z
+featured_Image: /uploads/bottega-veneta-shoe-size-chart-1-.webp
 categories:
   - Shoe Chart Guides
 ---
