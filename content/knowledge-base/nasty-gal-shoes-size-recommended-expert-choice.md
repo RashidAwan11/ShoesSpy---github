@@ -28,7 +28,7 @@ There can be a few reasons why your shoe size might change. The best shoes for n
 
 ## **What Are The Best Shoes For Nasty Gal?**
 
-If you're looking for something trendy and fashion-forward, then a pair of sandals or booties might be your best bet. If you need something a little more classic and versatile, then opt for a pair of flats or loafers. Whatever style you choose, make sure it's one that you feel comfortable in and that fits your feet well.
+If you're looking for something trendy and <a href="https://www.dictionary.com/browse/fashion-forward" target="_blank" rel="nofollow" rel="noopener">fashion-forward</a>, then a pair of sandals or booties might be your best bet. If you need something a little more classic and versatile, then opt for a pair of flats or loafers. Whatever style you choose, make sure it's one that you feel comfortable in and that fits your feet well.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/joXmHMOe6fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
