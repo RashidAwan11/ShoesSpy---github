@@ -23,7 +23,7 @@ We all know that every brand has its own sizing chart, so it can be tricky when 
 
 There are a few different ways to use the size chart. The easiest way is to find your foot length and then find the corresponding size on the chart. This will give you a good starting point, but you may also need to adjust depending on the width of your feet.
 
-Another way to use the levis shoe size chart is to find your width measurement and then find the corresponding size. This will give you a better fit if you have wide or narrow feet, but it may not be as accurate if your feet are in between sizes.
+Another way to use the levis shoe size chart is to find your width measurement and then find the corresponding size. This will give you a better fit if you have <a href="http://www.differencebetween.net/miscellaneous/difference-between-wide-feet-and-narrow-feet/" target="_blank" rel="nofollow" rel="noopener">wide or narrow feet</a>, but it may not be as accurate if your feet are in between sizes.
 
 Finally, you can also use the Levi's size chart to convert from US sizes to European sizes or vice versa. Just find the size that corresponds to your measurements and then use the conversion chart to find the equivalent size in the other system.
 
