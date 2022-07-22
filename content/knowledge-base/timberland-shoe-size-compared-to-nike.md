@@ -2,7 +2,7 @@
 title: Timberland Shoe Size Compared To Nike
 type: knowledge-base
 draft: false
-trending: false
+trending: true
 trendname: Timberland Shoe Size Compared To Nike
 seo_title: Timberland Shoe Size Compared To Nike
 meta_Description: Timberland Shoe Size Compared To Nike
@@ -11,6 +11,7 @@ url: timberland-shoe-size-compared-to-nike
 author: Mason Alan
 date: 2022-07-19T10:51:22.621Z
 updateDate: 2022-07-19T10:51:23.555Z
+featured_Image: /uploads/timberland-shoe-size-compared-to-nike.webp
 categories:
   - Shoe Sizing Guides
 ---
