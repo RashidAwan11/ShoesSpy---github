@@ -13,6 +13,7 @@ url: asics-vs-nike-shoe-size
 author: Mason Alan
 date: 2022-07-18T13:34:39.844Z
 updateDate: 2022-07-18T13:34:40.670Z
+featured_Image: /uploads/asics-vs-nike-shoe-size.webp
 categories:
   - Shoe Sizing Guides
 ---
