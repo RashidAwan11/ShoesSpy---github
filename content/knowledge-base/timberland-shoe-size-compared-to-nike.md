@@ -10,7 +10,7 @@ meta_Keywords: Timberland Shoe Size Compared To Nike
 url: timberland-shoe-size-compared-to-nike
 author: Mason Alan
 date: 2022-07-19T10:51:22.621Z
-updateDate: 2022-07-19T10:51:23.555Z
+updateDate: 2022-07-22T05:11:45.999Z
 featured_Image: /uploads/timberland-shoe-size-compared-to-nike.webp
 categories:
   - Shoe Sizing Guides
