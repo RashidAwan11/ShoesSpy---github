@@ -12,7 +12,7 @@ meta_Keywords: how do merrell shoes fit compared to nike
 url: how-do-merrell-shoes-fit-compared-to-nike
 author: Mason Alan
 date: 2022-07-15T10:46:52.381Z
-updateDate: 2022-07-22T05:15:36.018Z
+updateDate: 2022-07-22T05:16:56.364Z
 featured_Image: /uploads/how-do-merrell-shoes-fit-compared-to-nike.webp
 categories:
   - Shoe Guides
